@@ -19,6 +19,30 @@
 
 <br/>
 
+## 🏆 Hackathon Submission Details
+
+**Team Number:** 05 
+
+**Team Name:** CYPHOR  
+
+**👥 Team Members:**
+- Sibam Prasad Sahoo 
+- Pritam Piyush Nayak
+- Aniket Sinha
+- Kanak Sharma
+- Soumini Indrajit Singh  
+
+**🧩 Selected Problem Statement:**  
+PS-04
+AI - Enabled Student Loan Eligibility, Loan Application, Disbursal & Agentic scholorship Approval System
+
+**🚀 Key Features of the Project:**
+- AI-based Alternative Credit Scoring (CredFund)  
+- Scholarship Matching using RAG (TrustScholar)  
+- Scam Detection for WhatsApp Links (ScamShield)  
+- AI Autopsy for Rejection Analysis  
+- Auto Application System for Students  
+
 ## 🌟 Overview
 
 DreamFund is an integrated **AI-Driven Financial Agent Ecosystem**, engineered to redefine how students build credit profiles, access funding, and protect themselves from predatory educational scams. 
